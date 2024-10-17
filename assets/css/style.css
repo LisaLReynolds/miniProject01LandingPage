@@ -1,0 +1,17 @@
+
+header {
+    margin: 0;
+    padding: 0;
+    border-bottom: 10px solid #eead59;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(26, 80, 49);
+}
+
+ul {
+    color: antiquewhite;
+}
+
+main {
+    text-align: center;
+}
