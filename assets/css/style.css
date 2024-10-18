@@ -19,6 +19,7 @@ ul {
 
 main {
     text-align: center;
+  
 }
 
 h1 {
@@ -28,7 +29,7 @@ h1 {
 }
 
 p {
-   
+   padding: 20px;
 }
 
 section {
@@ -38,6 +39,8 @@ section {
 
 form {
     margin: 0 auto;
+    width: 500px;
+    padding: 10px;
 }
 
 .contact h2 {
